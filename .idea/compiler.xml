@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LegoMindStormsBase" />
+        <module name="pcstore23" />
       </profile>
     </annotationProcessing>
   </component>
